@@ -1,4 +1,6 @@
-# This project is about data analysis in mass spectrometry. #
+# Data analysis in chemestry #
+
+This project is about data analysis in mass spectrometry.
 
 It's coded in python in two ways:
 - a jupiter notebook (for school project)
